@@ -4,6 +4,10 @@ Screenshots and links for public AI workflow demos hosted on [ai.joaoqueiros.com
 
 This repo intentionally does not include the demo HTML source. It is a public gallery for clients who want to see the workflows in motion.
 
+[![Website](https://img.shields.io/badge/Website-ai.joaoqueiros.com-111827?style=for-the-badge)](https://www.ai.joaoqueiros.com)
+[![Live Demos](https://img.shields.io/badge/Live-Demos-059669?style=for-the-badge)](https://www.ai.joaoqueiros.com/systems)
+[![Source](https://img.shields.io/badge/Demo_Source-Not_Published-f97316?style=for-the-badge)](https://github.com/jqaisystems/jqai-public-demos)
+
 ## Demos
 
 | Demo | Preview | Live Walkthrough |

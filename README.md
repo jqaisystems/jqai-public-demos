@@ -16,12 +16,14 @@ This repo is a client-facing gallery. It is here to show how the systems behave:
 | Etsy to Pinterest Pipeline | ![Etsy to Pinterest Pipeline](screenshots/etsy-to-pinterest-demo.png) | [Open demo](https://www.ai.joaoqueiros.com/demo/etsy-to-pinterest.html) |
 | OutreachIQ | ![OutreachIQ](screenshots/outreach-iq-demo.png) | [Open demo](https://www.ai.joaoqueiros.com/demo/outreach-iq.html) |
 | Adobe Stock Uploader | ![Adobe Stock Uploader](screenshots/adobe-stock-uploader-demo.png) | [Open demo](https://www.ai.joaoqueiros.com/demo/adobe-stock-uploader.html) |
+| AI News Curator | ![AI News Curator](screenshots/ai-news-curator-demo.png) | [Open case study](https://www.ai.joaoqueiros.com/systems/ai-news-curator) |
 
 ## What These Demos Show
 
 - Review queues before publishing or sending.
 - AI-generated drafts that still keep a human in control.
 - Workflow dashboards for repetitive studio operations.
+- Public-safe research briefs, archives, and review gates before sharing.
 - The kind of system that can start as an internal tool and become a custom client build.
 
 ## How To Use This Repo

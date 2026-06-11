@@ -17,6 +17,17 @@ This repo is a client-facing gallery. It is here to show how the systems behave:
 | OutreachIQ | ![OutreachIQ](screenshots/outreach-iq-demo.png) | [Open demo](https://www.ai.joaoqueiros.com/demo/outreach-iq.html) |
 | Adobe Stock Uploader | ![Adobe Stock Uploader](screenshots/adobe-stock-uploader-demo.png) | [Open demo](https://www.ai.joaoqueiros.com/demo/adobe-stock-uploader.html) |
 | AI News Curator | ![AI News Curator](screenshots/ai-news-curator-demo.png) | [Open demo](https://www.ai.joaoqueiros.com/demo/ai-news-curator.html) |
+| Codex Control Center | ![Codex Control Center](screenshots/codex-control-center-demo.png) | [Open demo](https://jqaisystems.github.io/codex-control-center/demo/) |
+
+## More Systems (Case Study Only)
+
+These systems do not have a self-playing walkthrough yet. Their public proof lives in the case studies and on the website.
+
+| System | What It Does | Public Proof |
+|---|---|---|
+| AI Brief Generator | Turns a short intake into a structured creative brief. | [Case study](https://github.com/jqaisystems/jqai-internal-systems/blob/main/case-studies/ai-brief-generator.md) / [Public page](https://www.ai.joaoqueiros.com/systems/ai-brief-generator) |
+| Social Media Content Calendar | Builds a month of content from a single brand brief. | [Case study](https://github.com/jqaisystems/jqai-internal-systems/blob/main/case-studies/social-media-content-calendar.md) / [Public page](https://www.ai.joaoqueiros.com/systems/content-calendar) |
+| JQ AI Skills | 21 reusable MIT-licensed skills for Codex and Claude Code workflows. | [Repo](https://github.com/jqaisystems/jqai-ai-skills) / [Free downloads](https://www.ai.joaoqueiros.com/skills/) |
 
 ## What These Demos Show
 

@@ -1,52 +1,83 @@
-# JQ AI SYSTEMS Public Demos
+# JQ AI SYSTEMS / Public Demos
 
-Screenshots and links for public AI workflow demos hosted on [ai.joaoqueiros.com](https://www.ai.joaoqueiros.com).
+Explore the workflows: how inputs become drafts, queues, checks and reviewable outputs.
 
-This repo is a client-facing gallery. It is here to show how the systems behave: review queues, dashboards, generated drafts, and human approval steps. It intentionally does not include demo HTML source.
+[Selected systems](https://www.ai.joaoqueiros.com/systems) · [Read the case studies](https://github.com/jqaisystems/jqai-internal-systems) · [Discuss a project](https://www.ai.joaoqueiros.com/contact)
 
-[![Website](https://img.shields.io/badge/Website-ai.joaoqueiros.com-111827?style=for-the-badge)](https://www.ai.joaoqueiros.com)
-[![Live Demos](https://img.shields.io/badge/Live-Demos-059669?style=for-the-badge)](https://www.ai.joaoqueiros.com/systems)
-[![Source](https://img.shields.io/badge/Demo_Source-Not_Published-f97316?style=for-the-badge)](https://github.com/jqaisystems/jqai-public-demos)
+The guided demos use sample data. System films are illustrative explanations. These public previews do not connect to private production systems.
 
-## Demos
+## Explore the work
 
-| Demo | Preview | Live Walkthrough |
-|---|---|---|
-| Tidesstunes Social Pipeline | ![Tidesstunes Social Pipeline](screenshots/tidesstunes-social-pipeline-demo.png) | [Open demo](https://www.ai.joaoqueiros.com/demo/tidesstunes-social-pipeline.html) |
-| Etsy to Pinterest Pipeline | ![Etsy to Pinterest Pipeline](screenshots/etsy-to-pinterest-demo.png) | [Open demo](https://www.ai.joaoqueiros.com/demo/etsy-to-pinterest.html) |
-| OutreachIQ | ![OutreachIQ](screenshots/outreach-iq-demo.png) | [Open demo](https://www.ai.joaoqueiros.com/demo/outreach-iq.html) |
-| Adobe Stock Uploader | ![Adobe Stock Uploader](screenshots/adobe-stock-uploader-demo.png) | [Open demo](https://www.ai.joaoqueiros.com/demo/adobe-stock-uploader.html) |
-| AI News Curator | ![AI News Curator](screenshots/ai-news-curator-demo.png) | [Open demo](https://www.ai.joaoqueiros.com/demo/ai-news-curator.html) |
-| Codex Control Center | ![Codex Control Center](screenshots/codex-control-center-demo.png) | [Open demo](https://jqaisystems.github.io/codex-control-center/demo/) |
+### Etsy to Pinterest
 
-## More Systems (Case Study Only)
+Review image-pin preparation and scheduling, with a separate manual queue for video pins.
 
-These systems do not have a self-playing walkthrough yet. Their public proof lives in the case studies and on the website.
+[![Etsy to Pinterest system-film preview](assets/showcase/etsy-to-pinterest-card.png)](https://www.ai.joaoqueiros.com/systems/etsy-to-pinterest)
 
-| System | What It Does | Public Proof |
-|---|---|---|
-| AI Brief Generator | Turns a short intake into a structured creative brief. | [Case study](https://github.com/jqaisystems/jqai-internal-systems/blob/main/case-studies/ai-brief-generator.md) / [Public page](https://www.ai.joaoqueiros.com/systems/ai-brief-generator) |
-| Social Media Content Calendar | Builds a month of content from a single brand brief. | [Case study](https://github.com/jqaisystems/jqai-internal-systems/blob/main/case-studies/social-media-content-calendar.md) / [Public page](https://www.ai.joaoqueiros.com/systems/content-calendar) |
-| JQ AI Skills | 21 reusable MIT-licensed skills for Codex and Claude Code workflows. | [Repo](https://github.com/jqaisystems/jqai-ai-skills) / [Free downloads](https://www.ai.joaoqueiros.com/skills/) |
+[Open demo](https://www.ai.joaoqueiros.com/demo/etsy-to-pinterest.html) · [Case study](https://www.ai.joaoqueiros.com/systems/etsy-to-pinterest) · [Watch the film](https://www.ai.joaoqueiros.com/media/systems/films/etsy-to-pinterest.mp4)
 
-## What These Demos Show
+### Adobe Stock Uploader
 
-- Review queues before publishing or sending.
-- AI-generated drafts that still keep a human in control.
-- Workflow dashboards for repetitive studio operations.
-- Public-safe research briefs, archives, and review gates before sharing.
-- The kind of system that can start as an internal tool and become a custom client build.
+Inspect visual batch review, ordered metadata, CSV validation and final human review.
 
-## How To Use This Repo
+[![Adobe Stock Uploader system-film preview](assets/showcase/adobe-stock-uploader-card.png)](https://www.ai.joaoqueiros.com/systems/adobe-stock-uploader)
 
-Open the live walkthroughs first, then use the screenshots as a quick visual reference. If you want the strategic context behind each demo, read the companion case studies in [`jqai-internal-systems`](https://github.com/jqaisystems/jqai-internal-systems).
+[Open demo](https://www.ai.joaoqueiros.com/demo/adobe-stock-uploader.html) · [Case study](https://www.ai.joaoqueiros.com/systems/adobe-stock-uploader) · [Watch the film](https://www.ai.joaoqueiros.com/media/systems/films/adobe-stock-uploader.mp4)
 
-## Not Included
+### SEO Engine
 
-- Demo HTML source files.
-- Production source code.
-- API keys, tokens, credentials, logs, prompts, databases, or private client data.
+Explore the film and case study for indexing checks, sitemap validation and dated search checkpoints.
 
-Explore the full systems library: [ai.joaoqueiros.com/systems](https://www.ai.joaoqueiros.com/systems)
+[![SEO Engine system-film preview](assets/showcase/seo-engine-card.png)](https://www.ai.joaoqueiros.com/systems/seo-engine)
 
-Want a system like this? Start here: [ai.joaoqueiros.com/contact](https://www.ai.joaoqueiros.com/contact)
+[Case study](https://www.ai.joaoqueiros.com/systems/seo-engine) · [Watch the film](https://www.ai.joaoqueiros.com/media/systems/films/seo-engine.mp4)
+
+### Tidesstunes Social Pipeline
+
+Follow music-video selection, vertical clips, tailored captions and a publishing queue.
+
+[![Tidesstunes Social Pipeline guided demo](screenshots/tidesstunes-social-pipeline-demo.png)](https://www.ai.joaoqueiros.com/demo/tidesstunes-social-pipeline.html)
+
+[Open demo](https://www.ai.joaoqueiros.com/demo/tidesstunes-social-pipeline.html) · [Case study](https://www.ai.joaoqueiros.com/systems/tidesstunes-social-pipeline) · [Watch the film](https://www.ai.joaoqueiros.com/media/systems/films/tidesstunes-social-pipeline.mp4)
+
+### OutreachIQ
+
+Inspect search, enrichment, drafting, tone checks and the human review gate.
+
+[![OutreachIQ guided demo](screenshots/outreach-iq-demo.png)](https://www.outreachiq.joaoqueiros.com/demo/)
+
+[Open demo](https://www.outreachiq.joaoqueiros.com/demo/) · [Case study](https://www.ai.joaoqueiros.com/systems/outreach-iq)
+
+### AI News Curator
+
+Follow the source collection, briefing, archive and review workflow.
+
+[![AI News Curator guided demo](screenshots/ai-news-curator-demo.png)](https://www.ai.joaoqueiros.com/demo/ai-news-curator.html)
+
+[Open demo](https://www.ai.joaoqueiros.com/demo/ai-news-curator.html) · [Case study](https://www.ai.joaoqueiros.com/systems/ai-news-curator)
+
+### Codex Control Center
+
+Explore a local-observability dashboard through fictional sample data.
+
+[![Codex Control Center guided demo](screenshots/codex-control-center-demo.png)](https://jqaisystems.github.io/codex-control-center/demo/)
+
+[Open demo](https://jqaisystems.github.io/codex-control-center/demo/) · [Case study](https://www.ai.joaoqueiros.com/systems/codex-control-center)
+
+
+## More to inspect
+
+| Resource | What it offers |
+|---|---|
+| [JQ AI Skills](https://github.com/jqaisystems/jqai-ai-skills) | MIT-licensed reusable workflows, with instructions and public examples. [Latest release](https://github.com/jqaisystems/jqai-ai-skills/releases/latest). |
+| [AI Brief Generator](https://www.ai.joaoqueiros.com/systems/ai-brief-generator) | A case study on turning intake into a structured creative brief. |
+| [Content Calendar](https://www.ai.joaoqueiros.com/systems/content-calendar) | A case study on planning content from a brand brief. |
+
+<details>
+<summary>About the public previews</summary>
+
+These examples show workflow behaviour and review points. Production source, private prompts, credentials and business data stay private. Read the companion case studies for the problem, approach and boundaries.
+
+</details>
+
+[Discuss a similar workflow](https://www.ai.joaoqueiros.com/contact) · [JQ AI SYSTEMS](https://www.ai.joaoqueiros.com)

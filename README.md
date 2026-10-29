@@ -6,6 +6,12 @@ Explore the workflows: how inputs become drafts, queues, checks and reviewable o
 
 The guided demos use sample data. System films are illustrative explanations. These public previews do not connect to private production systems.
 
+## Websites, films and source
+
+- **[Scrollwork](https://www.ai.joaoqueiros.com/scrollwork):** explore actual websites through scrolling interaction. [Breakdown](https://github.com/jqaisystems/jqai-internal-systems/blob/main/case-studies/scrollwork.md).
+- **[Cairn](https://www.ai.joaoqueiros.com/cairn):** inspect the search-checkpoint method and public example report. [Breakdown](https://github.com/jqaisystems/jqai-internal-systems/blob/main/case-studies/cairn.md).
+- **[Visions Recipes](https://github.com/jqaisystems/visions-recipes):** creative films with source and remix instructions. These are films, rather than working software demonstrations.
+
 ## Explore the work
 
 ### Etsy to Pinterest

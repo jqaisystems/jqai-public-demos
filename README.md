@@ -12,6 +12,10 @@ The guided demos use sample data. System films are illustrative explanations. Th
 - **[Cairn](https://www.ai.joaoqueiros.com/cairn):** inspect the search-checkpoint method and public example report. [Breakdown](https://github.com/jqaisystems/jqai-internal-systems/blob/main/case-studies/cairn.md).
 - **[Visions Recipes](https://github.com/jqaisystems/visions-recipes):** creative films with source and remix instructions. These are films, rather than working software demonstrations.
 
+## Jump to a preview
+
+[Etsy to Pinterest](#etsy-to-pinterest) · [Adobe Stock Uploader](#adobe-stock-uploader) · [SEO Engine](#seo-engine) · [Tidesstunes](#tidesstunes-social-pipeline) · [OutreachIQ](#outreachiq) · [AI News Curator](#ai-news-curator) · [Codex Control Center](#codex-control-center)
+
 ## Explore the work
 
 ### Etsy to Pinterest
